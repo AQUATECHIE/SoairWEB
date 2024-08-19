@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    height: auto;
+    width: 50%;
+    border: 2px solid;
+    padding: 25px;
+    float: left;
+}
