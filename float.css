@@ -9,4 +9,6 @@
     border: 2px solid;
     padding: 25px;
     float: left;
+    border:  1px solid red;
+    margin: auto;
 }
